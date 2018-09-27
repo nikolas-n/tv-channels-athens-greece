@@ -1,5 +1,5 @@
 # TV Channels in Athens Greece
-Συχνότητες τηλεοπτικών καναλιών στην Αθήνα
+Συχνότητες τηλεοπτικών καναλιών στην Αθήνα.
 
 ## Requirements
 1. A DVB-T TV Tuner USB Dongle
